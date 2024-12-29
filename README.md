@@ -93,6 +93,7 @@ TensorFlow is a powerful and widely-used open-source library for numerical compu
 
 19. **Predict with the Iris Model**:
     - Use the trained model to make predictions on new data.
+
 20. **Summary**:
     - Use to tabulate model file created
 
@@ -103,7 +104,13 @@ Visualize data distributions and training metrics:
 1. Data histograms for features.
 2. Loss curves for training and validation.
 3. Predicted vs. actual values for regression.
-4. Confusion matrix for classification.
+4. load_model function used to read the model
+
+---
+## Outputs
+
+![image](https://github.com/user-attachments/assets/d244f849-03cd-4c51-abdb-c0e35d3a2bd0)
+![image](https://github.com/user-attachments/assets/9f80cb0e-3fff-42a0-b6ec-101827e9bb2b)
 
 ---
 
