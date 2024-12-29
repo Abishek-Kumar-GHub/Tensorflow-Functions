@@ -110,6 +110,7 @@ Visualize data distributions and training metrics:
 ## Outputs
 1. **Analone: Predicted vs Actual**
 - ![image](https://github.com/user-attachments/assets/d244f849-03cd-4c51-abdb-c0e35d3a2bd0)
+  
 **Iris Classification**
 - ![image](https://github.com/user-attachments/assets/9f80cb0e-3fff-42a0-b6ec-101827e9bb2b)
 
