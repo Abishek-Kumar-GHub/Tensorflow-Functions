@@ -93,6 +93,8 @@ TensorFlow is a powerful and widely-used open-source library for numerical compu
 
 19. **Predict with the Iris Model**:
     - Use the trained model to make predictions on new data.
+20. **Summary**:
+    - Use to tabulate model file created
 
 ---
 
